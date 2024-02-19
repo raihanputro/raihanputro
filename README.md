@@ -33,7 +33,3 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-### GitHub Stats:
-![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanputro&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanputro&theme=tokyonight)
-
