@@ -9,8 +9,8 @@
     <a href="https://linkedin.com/in/raihanputro">
       <img src="https://img.shields.io/badge/LinkedIn-raihanputro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.hackerrank.com/raihanputromaul1">
-      <img src="https://img.shields.io/badge/HackerRank-raihanputromaul1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <a href="https://raihanputro.space">
+      <img src="https://img.shields.io/badge/Portfolio-raihanputro.space-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
   </p>
 </div>
